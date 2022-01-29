@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title>Cliente Websocket</title>
+</head>
+<body class="bg-light">
+    <!-- TÍTULO -->
+
+    <div class="container">
+        <h1 class="display-1 text-center">Temperaturas</h1>
+    </div>
+
+    <!-- TABELA -->
+
+    <div class="container overflow-auto">
+        <table class="table" id="tabela-temperaturas">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Tempo</th>
+                    <th scope="col">Temperatura</th>
+                </tr>
+            </thead>
+            <tbody id="tabela-temperaturas">
+            </tbody>
+        </table>
+    </div>
+
+    <!-- CONEXÃO -->
+
+    <div class="d-flex bd-highlight fixed-top">
+        <div class="p-2 flex-grow-1 bd-highlight">
+            <button class="btn btn-success" id="botaoConexao" onclick="clickBotaoConexao()">Conectar!</button>
+        </div>
+        <div class="p-2 bd-highlight mx-2 my-2 alert alert-success invisible" id="conexao">Conectado!</div>
+    </div>
+    <script src="jquery-3.6.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="paho-mqtt.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
