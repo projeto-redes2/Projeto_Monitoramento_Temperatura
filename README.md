@@ -43,6 +43,6 @@ Para instalação das bibliotecas pode fazer download em zip dos repositorios e 
 
 <h2> Autoria </h2>
 <p>
-Lucas Fernandes e Lucas Costa.
+Lucas Fernandes e Lucas Costa.</br>
 Baseado no projeto <a href="https://randomnerdtutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/#:~:text=The%20ESP32%20is%20publishing%20temperature,topics%20and%20receive%20the%20readings.">ESP32 MQTT – Publish DHT11/DHT22 by RandomNerdTutorials</a>
 </p>
