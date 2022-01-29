@@ -1,5 +1,5 @@
 # Projeto_Monitoramento_Temperatura
-### Descrição do Projeto
+<h2> Descrição do Projeto </h2>
 <p align="center">Projeto feito para disciplina de Redes 2 UFF 2021.2</p>
 <p>O projeto visa monitorar a temperatura de ambiente, pegar essa informação e enviar para um broker e o broker enviar para o cliente que se subscreve ao tóopico</p>
 
