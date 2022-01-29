@@ -3,7 +3,7 @@
 <p align="center">Projeto feito para disciplina de Redes 2 UFF 2021.2</p>
 <p>O projeto visa monitorar a temperatura de ambiente, pegar essa informação e enviar para um broker e o broker enviar para o cliente que se subscreve ao tóopico</p>
 
-### Tecnologias
+<h2> Tecnologias </h2>
 <p>As tecnologias utilizadas foram :
 Hardware
 Esp32
@@ -21,7 +21,7 @@ Broker da HiveMQ Cloud
 
 </p>
 
-### Instruções
+<h2> Instruções </h2>
 <p >
 - Baixar o <a href="https://www.arduino.cc/en/software">Arduino IDE</a>
 
@@ -41,7 +41,7 @@ Para instalação das bibliotecas pode fazer download em zip dos repositorios e 
   Depois bastará abrir o cliente em navegador, ativar o Esp32 e visualizar as informações sendo entregues ao cliente aberto.
 </p>
 
-### Autoria
+<h2> Autoria </h2>
 <p>
 Lucas Fernandes e Lucas Costa.
 Baseado no projeto <a href="https://randomnerdtutorials.com/esp32-mqtt-publish-dht11-dht22-arduino/#:~:text=The%20ESP32%20is%20publishing%20temperature,topics%20and%20receive%20the%20readings.">ESP32 MQTT – Publish DHT11/DHT22 by RandomNerdTutorials</a>
