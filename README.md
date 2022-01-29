@@ -26,11 +26,11 @@ Broker da HiveMQ Cloud
 - Baixar o <a href="https://www.arduino.cc/en/software">Arduino IDE</a>
 
 - Instalar a seguintes bibliotecas:
-  -<a href="https://github.com/me-no-dev/AsyncTCP">Async-TCP</a> 
-  -<a href="https://github.com/marvinroger/async-mqtt-client"> Async-MQTT-Client</a>
-  -DHT11 sensor library by Adafruit (pode ser instalado pela IDE do Arduino)
-  -Adafruit Unified Sensor by Adafruit( pode ser instalado pela IDE do Arduino)
-  -WiFi(já vem na IDE)
+  -<a href="https://github.com/me-no-dev/AsyncTCP">Async-TCP</a> </br>
+  -<a href="https://github.com/marvinroger/async-mqtt-client"> Async-MQTT-Client</a> </br>
+  -DHT11 sensor library by Adafruit (pode ser instalado pela IDE do Arduino)</br>
+  -Adafruit Unified Sensor by Adafruit( pode ser instalado pela IDE do Arduino)</br>
+  -WiFi(já vem na IDE)</br>
 
 Para instalação das bibliotecas pode fazer download em zip dos repositorios e depois abrir no Arduino IDE em Sketch > Incluir Biblioteca > Adicionar biblioteca ZIP.
 </p>
