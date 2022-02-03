@@ -3,6 +3,12 @@
 <p align="center">Projeto feito para disciplina de Redes 2 UFF 2021.2</p>
 <p>O projeto visa monitorar a temperatura de ambiente, pegar essa informação e enviar para um broker e o broker enviar para o cliente que se subscreve ao tóopico</p>
 
+<h2> Página de Exibição do Cliente </h2>
+
+![Captura de Ecrã (154)](https://user-images.githubusercontent.com/55035273/152375995-e90f957e-7cbe-4985-9186-2d41dc5ae601.png)
+
+<h2> Esquema </h2>
+
 <h2> Tecnologias </h2>
 <p>As tecnologias utilizadas foram :
 Hardware
