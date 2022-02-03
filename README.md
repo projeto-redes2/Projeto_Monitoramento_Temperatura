@@ -7,7 +7,9 @@
 
 ![Captura de Ecrã (154)](https://user-images.githubusercontent.com/55035273/152375995-e90f957e-7cbe-4985-9186-2d41dc5ae601.png)
 
-<h2> Esquema </h2>
+<h2> Esquema de Exemplo </h2>
+
+![Captura de Ecrã (155)](https://user-images.githubusercontent.com/55035273/152377540-8d8d8b9d-daa5-4dfe-866b-6c2acd34b6ea.png)
 
 <h2> Tecnologias </h2>
 <p>As tecnologias utilizadas foram :
